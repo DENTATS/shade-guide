@@ -1,0 +1,10 @@
+{
+  "name": "Digital Shade Guide",
+  "description": "Smartphone-based dental shade classification using CIELAB colour extraction and multiclass Support Vector Machine (SVM).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
